@@ -6,7 +6,8 @@ Created on Tue Jun  4 12:02:42 2024
 """
 
 # METODO DE ORDENAMIENTO (INSERTION SORT)
-# Insertion Sort construye la lista ordenada de uno en uno, insertando cada nuevo elemento en su posición correcta.
+# Insertion Sort construye la lista ordenada de uno en uno, insertando cada nuevo elemento en su 
+# posición correcta.
 
 def insertion_sort(arr):
     for i in range(1, len(arr)):
