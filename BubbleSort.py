@@ -5,7 +5,7 @@ Created on Tue Jun  4 12:02:42 2024
 @author: moise
 """
 
-# METODO DE ORDENAMIENTO (INSERTION SORT)
+# METODO DE ORDENAMIENTO (BUBBLE SORT)
 # El algoritmo Bubble Sort compara elementos adyacentes y los intercambia si están en el orden incorrecto. Este proceso se repite hasta que la lista esté ordenada.
 
 def bubble_sort(arr):
